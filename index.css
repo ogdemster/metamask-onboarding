@@ -34,3 +34,26 @@ button:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   background-color: white;
 }
+
+#SendEthBtn {
+  font-size: 24px;
+  padding: 2px 4px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  background-color: #856618;
+  color: rgb(10, 1, 1);
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+#SendEthBtn :hover {
+  font-size: 24px;
+  padding: 2px 4px;
+  border: none;
+  border-radius: 5px;
+  background-color: #856618;
+  color: rgb(10, 1, 1);
+  cursor: pointer;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px;
+}
